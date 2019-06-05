@@ -2,7 +2,7 @@
 
 ## Supported Versions
 #### iOS 8:
-> * 8.4 `25 June 2015`
+> * [8.4](https://github.com/isatria/XCode-iOS-DeviceSupport/blob/master/src/8.0.zip) `25 June 2015`
 > * 8.3 `9 April 2015`
 > * 8.2 `9 April 2015`
 > * 8.1 `14 October 2014`
