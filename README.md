@@ -2,5 +2,5 @@
 
 ## Supported Versions
 
-### iOS 8
+#### iOS 8 :
 * 8.0
