@@ -1,4 +1,4 @@
-# iOS DeviceSupport for XCode [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20XCode-iOS-DeviceSupport%20on%20GitHub&url=https://github.com/isatria/XCode-iOS-DeviceSupport)
+# iOS DeviceSupport for Xcode [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20Xcode-iOS-DeviceSupport%20on%20GitHub&url=https://github.com/isatria/Xcode-iOS-DeviceSupport)
 
 ![last commit](https://img.shields.io/github/last-commit/isatria/XCode-iOS-DeviceSupport.svg)
 
@@ -6,14 +6,14 @@
 Will update regularly.
 
 ## Usage: ##
-1. Close XCode.
+1. Close Xcode.
 2. Open Finder.
 3. Press **Shift**+**⌘ (Command)**+**G** to open *Go to Folder*
 4. Enter: `/Applications/Xcode/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport/`.
 5. Then copy the latest Device Support file do you want to this directory.
 
 **Note :**  
-If your **XCode.app** is not in `/Applications/`, change `/Applications/Xcode` to match the path of the existence of **XCode.app**.
+If your **Xcode.app** is not in `/Applications/`, change `/Applications/Xcode` to match the path of the existence of **Xcode.app**.
 
 ## Supported Versions ##
 #### iOS 13: ####
@@ -30,3 +30,6 @@ If your **XCode.app** is not in `/Applications/`, change `/Applications/Xcode` t
 > * [8.2](https://github.com/isatria/XCode-iOS-DeviceSupport/raw/master/src/8.2.zip) `9 April 2015`
 > * [8.1](https://github.com/isatria/XCode-iOS-DeviceSupport/raw/master/src/8.1.zip) `14 October 2014`
 > * [8.0](https://github.com/isatria/XCode-iOS-DeviceSupport/raw/master/src/8.0.zip) `20 August 2014`
+
+## External links ##
+* [Official Latest Xcode (11 Beta)](https://developer.apple.com/services-account/download?path=/WWDC_2019/Xcode_11_Beta/Xcode_11_Beta.xip)
