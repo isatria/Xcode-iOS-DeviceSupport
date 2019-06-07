@@ -12,7 +12,7 @@ Will update regularly.
 4. Enter: `/Applications/Xcode/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport/`.
 5. Then copy the latest Device Support file do you want to this directory.
 
-Note :  
+**Note :**  
 If your **XCode.app** is not in `/Applications/`, change `/Applications/Xcode` to match the path of the existence of **XCode.app**.
 
 ## Supported Versions ##
