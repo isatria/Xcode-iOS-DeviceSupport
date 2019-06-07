@@ -5,9 +5,16 @@
 
 Will update regularly.
 
+## Usage: ##
+1. Close XCode.
+2. Open Finder.
+3. Press **Shift** + **Command (⌘)** + **G** to open *Go to Folder*.
+4. Enter: `/Applications/Xcode/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport/`.
+5. Then copy the latest Device Support file do you want to this directory.
+
 ## Supported Versions ##
 #### iOS 13: ####
-> * [13.0](https://github.com/isatria/XCode-iOS-DeviceSupport/raw/master/src/13.0.zip) `31 May 2019`
+> * [13.0 (17A5492t)](https://github.com/isatria/XCode-iOS-DeviceSupport/raw/master/src/13.0.zip) `31 May 2019`
 
 #### iOS 12: ####
 > * [12.2 (16E226)](https://github.com/isatria/XCode-iOS-DeviceSupport/raw/master/src/12.2%20(16E226).zip) `14 March 2019`
