@@ -9,6 +9,9 @@ Will update regularly.
 #### iOS 13: ####
 > * [13.0](https://github.com/isatria/XCode-iOS-DeviceSupport/raw/master/src/13.0.zip) `31 May 2019`
 
+#### iOS 12: ####
+> * [12.0 (16A366)](https://github.com/isatria/XCode-iOS-DeviceSupport/raw/master/src/13.0.zip) `31 May 2019`
+
 #### iOS 8: ####
 > * [8.4](https://github.com/isatria/XCode-iOS-DeviceSupport/raw/master/src/8.4.zip) `25 June 2015`
 > * [8.3](https://github.com/isatria/XCode-iOS-DeviceSupport/raw/master/src/8.3.zip) `9 April 2015`
