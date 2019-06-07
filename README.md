@@ -2,6 +2,9 @@
 
 ![last commit](https://img.shields.io/github/last-commit/isatria/XCode-iOS-DeviceSupport.svg)
 
+
+Will update regularly.
+
 ## Supported Versions ##
 #### iOS 13: ####
 > * [13.0](https://github.com/isatria/XCode-iOS-DeviceSupport/raw/master/src/13.0.zip) `31 May 2019`
