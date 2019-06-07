@@ -8,7 +8,7 @@ Will update regularly.
 ## Usage: ##
 1. Close XCode.
 2. Open Finder.
-3. Press **Shift** + **Command (⌘)** + **G** to open *Go to Folder*.
+3. Press **Shift**+**⌘ (Command)**+**G** to open *Go to Folder*.
 4. Enter: `/Applications/Xcode/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport/`.
 5. Then copy the latest Device Support file do you want to this directory.
 
