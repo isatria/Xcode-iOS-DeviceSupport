@@ -25,6 +25,7 @@ If your **Xcode.app** is not in `/Applications/`, change `/Applications/Xcode` t
 > * [12.0 (16A366)](https://github.com/isatria/Xcode-iOS-DeviceSupport/raw/master/src/12.0.zip) `29 August 2018`
 
 #### iOS 11: ####
+> * [11.4 (15F79)](https://github.com/isatria/Xcode-iOS-DeviceSupport/raw/master/src/11.4.zip) `12 May 2018`
 > * [11.3 (15E216)](https://github.com/isatria/Xcode-iOS-DeviceSupport/raw/master/src/11.3.zip) `14 March 2018`
 > * [11.2 (15C114)](https://github.com/isatria/Xcode-iOS-DeviceSupport/raw/master/src/11.2.zip) `30 November 2017`
 > * [11.1 (15B87)](https://github.com/isatria/Xcode-iOS-DeviceSupport/raw/master/src/11.1.zip) `13 October 2017`
