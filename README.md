@@ -12,7 +12,7 @@ Below command is trying to extract all files zip of device support to `/Applicat
 sudo pyton extract.py
 ```
 
-You can use `--target` if your Xcode is not in /Applications/
+You can use `--target` if your Xcode is not in `/Applications/`
 
 ```pyton
 sudo python extract.py --target /Document/Xcode.app
