@@ -6,6 +6,29 @@
 Will update regularly.
 
 ## Usage: ##
+Below command is trying to extract all files zip of device support to `/Applications/Xcode.app`.
+
+```pyton
+sudo pyton extract.py
+```
+
+You can use `--target` if your Xcode is not in /Applications/
+
+```pyton
+sudo python extract.py --target /Document/Xcode.app
+```
+optional arguments:
+```
+python extract.py -h
+usage: extract.py [-h] [--target XCODEPATH]
+
+Extract DeviceSupport files to Xcode.app
+
+optional arguments:
+  -h, --help          show this help message and exit
+  --target XCODEPATH  custom Xcode.app path location
+```
+### Manual ###
 1. Close Xcode.
 2. Open Finder.
 3. Press **Shift**+**⌘ (Command)**+**G** to open *Go to Folder*
@@ -46,3 +69,6 @@ If your **Xcode.app** is not in `/Applications/`, change `/Applications/Xcode` t
 
 ## External links ##
 * [Official Latest Xcode](https://developer.apple.com/services-account/download?path=/WWDC_2019/Xcode_11_Beta/Xcode_11_Beta.xip)
+
+## Credits ##
+[iGhibli/iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport)
