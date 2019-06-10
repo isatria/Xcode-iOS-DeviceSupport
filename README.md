@@ -17,7 +17,7 @@ You can use `--target` if your Xcode is not in `/Applications/`
 ```pyton
 sudo python extract.py --target /Document/Xcode.app
 ```
-optional arguments:
+
 ```
 python extract.py -h
 usage: extract.py [-h] [--target XCODEPATH]
