@@ -6,13 +6,13 @@
 Will update regularly.
 
 ## Usage: ##
-Below command is trying to extract all files zip of device support to `/Applications/Xcode.app`.
+Below command is trying to extract all files zip of device support to **/Applications/Xcode.app**.
 
 ```pyton
 sudo pyton extract.py
 ```
 
-You can use `--target` if your Xcode is not in `/Applications/`
+You can use `--target` if your Xcode is not in **/Applications/**
 
 ```pyton
 sudo python extract.py --target /Document/Xcode.app
@@ -29,11 +29,11 @@ optional arguments:
   --target XCODEPATH  custom Xcode.app path location
 ```
 ### Manual ###
-1. Close Xcode.
-2. Open Finder.
+1. Close **Xcode**.
+2. Open **Finder**.
 3. Press **Shift**+**⌘ (Command)**+**G** to open *Go to Folder*
 4. Enter: `/Applications/Xcode/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport/`.
-5. Then copy the latest Device Support file do you want to this directory.
+5. Then extract (unzip) and copy the latest Device Support file do you want to this directory.
 
 **Note :**  
 If your **Xcode.app** is not in `/Applications/`, change `/Applications/Xcode` to match the path of the existence of **Xcode.app**.
