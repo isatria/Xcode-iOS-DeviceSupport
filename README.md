@@ -70,5 +70,5 @@ If your **Xcode.app** is not in `/Applications/`, change `/Applications/Xcode` t
 ## External links ##
 * [Official Latest Xcode](https://developer.apple.com/services-account/download?path=/WWDC_2019/Xcode_11_Beta/Xcode_11_Beta.xip)
 
-## Credits ##
+## Credit ##
 [iGhibli/iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport)
