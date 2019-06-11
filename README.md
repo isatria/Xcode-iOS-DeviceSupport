@@ -61,6 +61,7 @@ If your **Xcode.app** is not in `/Applications/`, change `/Applications/Xcode` t
 > * [10.0 (14A345)](https://github.com/isatria/Xcode-iOS-DeviceSupport/raw/master/src/10.0.zip) `13 September 2016`
 
 #### iOS 9: ####
+> * [9.3 (13E238)](https://github.com/isatria/Xcode-iOS-DeviceSupport/raw/master/src/9.3.zip) `29 March 2016`
 > * [9.2 (13C75)](https://github.com/isatria/Xcode-iOS-DeviceSupport/raw/master/src/9.2.zip) `14 December 2015`
 > * [9.1 (13B143)](https://github.com/isatria/Xcode-iOS-DeviceSupport/raw/master/src/9.1.zip) `23 October 2015`
 > * [9.0 (13A344)](https://github.com/isatria/Xcode-iOS-DeviceSupport/raw/master/src/9.0.zip) `8 September 2015`
