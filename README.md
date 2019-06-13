@@ -74,7 +74,7 @@ If your **Xcode.app** is not in `/Applications/`, change `/Applications/Xcode` t
 > * [8.0](https://github.com/isatria/Xcode-iOS-DeviceSupport/raw/master/src/8.0.zip) `20 August 2014`
 
 ## External links ##
-* [Official Latest Xcode](https://developer.apple.com/services-account/download?path=/WWDC_2019/Xcode_11_Beta/Xcode_11_Beta.xip)
+* [Official Latest Xcode 11 Beta Build (11M336W)](https://developer.apple.com/services-account/download?path=/WWDC_2019/Xcode_11_Beta/Xcode_11_Beta.xip)
 
 ## Credit ##
 [iGhibli/iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport)
