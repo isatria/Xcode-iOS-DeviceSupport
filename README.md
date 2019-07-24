@@ -43,6 +43,7 @@ If your **Xcode.app** is not in `/Applications/`, change `/Applications/Xcode` t
 > * [13.0 (17A5492t)](https://github.com/isatria/Xcode-iOS-DeviceSupport/raw/master/src/13.0.zip) `31 May 2019`
 
 #### iOS 12: ####
+> * [12.4 (16G73)](https://github.com/isatria/Xcode-iOS-DeviceSupport/raw/master/src/12.4%20(16G73).zip) `10 July 2019`
 > * [12.3 (16F148)](https://github.com/isatria/Xcode-iOS-DeviceSupport/raw/master/src/12.3.zip) `26 April 2019`
 > * [12.2 (16E226)](https://github.com/isatria/Xcode-iOS-DeviceSupport/raw/master/src/12.2%20(16E226).zip) `14 March 2019`
 > * [12.1 (16B93)](https://github.com/isatria/Xcode-iOS-DeviceSupport/raw/master/src/12.1.zip) `24 October 2018`
@@ -75,7 +76,8 @@ If your **Xcode.app** is not in `/Applications/`, change `/Applications/Xcode` t
 > * [8.0](https://github.com/isatria/Xcode-iOS-DeviceSupport/raw/master/src/8.0.zip) `20 August 2014`
 
 ## External links ##
-* [Official Latest Xcode 11 Beta Build (11M336W)](https://developer.apple.com/services-account/download?path=/WWDC_2019/Xcode_11_Beta/Xcode_11_Beta.xip)
+
+* [Official Latest Xcode 11 Beta Build (11M374r)](https://developer.apple.com/services-account/download?path=/Developer_Tools/Xcode_11_Beta_4/Xcode_11_Beta_4.xip)
 
 ## Credit ##
 [iGhibli/iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport)
