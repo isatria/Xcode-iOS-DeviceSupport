@@ -43,6 +43,7 @@ If your **Xcode.app** is not in `/Applications/`, change `/Applications/Xcode` t
 > * [13.0 (17A5492t)](https://github.com/isatria/Xcode-iOS-DeviceSupport/raw/master/src/13.0.zip) `31 May 2019`
 
 #### iOS 12: ####
+> * [12.3 (16F148)](https://github.com/isatria/Xcode-iOS-DeviceSupport/raw/master/src/12.3.zip) `26 April 2019`
 > * [12.2 (16E226)](https://github.com/isatria/Xcode-iOS-DeviceSupport/raw/master/src/12.2%20(16E226).zip) `14 March 2019`
 > * [12.1 (16B93)](https://github.com/isatria/Xcode-iOS-DeviceSupport/raw/master/src/12.1.zip) `24 October 2018`
 > * [12.0 (16A366)](https://github.com/isatria/Xcode-iOS-DeviceSupport/raw/master/src/12.0.zip) `29 August 2018`
